@@ -5,21 +5,21 @@ import * as S from './styles'
 const tarefas = [
   {
     titulo: 'Estudar TypeScript',
-    prioridade: 'Ver a aula 3 da EBAC',
-    status: 'importante',
-    descricao: 'pendente'
+    descricao: 'Ver a aula 3 da EBAC',
+    prioridade: 'importante',
+    status: 'pendente'
   },
   {
     titulo: 'Pagar Conta',
-    prioridade: 'Baixar Fatura',
-    status: 'urgente  ',
-    descricao: 'concluida'
+    descricao: 'Baixar Fatura',
+    prioridade: 'urgente',
+    status: 'concluida'
   },
   {
     titulo: 'Ir para a academia',
-    prioridade: 'Fazer treino B',
-    status: 'importante',
-    descricao: 'pendente'
+    descricao: 'Fazer treino B',
+    prioridade: 'importante',
+    status: 'pendente'
   }
 ]
 
